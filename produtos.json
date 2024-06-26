@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Banana",
+        "descricao": "Fruta",
+        "valor": 2.0,
+        "disponivel": true
+    },
+    {
+        "nome": "Morango",
+        "descricao": "Fruta",
+        "valor": 5.0,
+        "disponivel": false
+    },
+    {
+        "nome": "Manga",
+        "descricao": "Fruta",
+        "valor": 1.0,
+        "disponivel": true
+    }
+]
